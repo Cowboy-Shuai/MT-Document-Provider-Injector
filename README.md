@@ -8,7 +8,7 @@ Technic used to Inject Document Provider in [MT Manager Mod](https://t.me/Modder
 ## Project build by 
 - AIDE(Developing projects on Android)
 ## Special thanks to
-- @L-JINBIN for providing all such great projects. Without him i think, Iam not in this field 😂. But i am sorry 🙏
+- [L-JinBin](https://github.com/L-JINBIN) for providing all such great projects. Without him i think, Iam not in this field 😂. But i am sorry 🙏
 - [Timscriptov](https://github.com/timscriptov) for modifying both [pxb-axml](https://github.com/timscriptov/axmlparser) and [bin-zip](https://github.com/timscriptov/apkparser)
 - [ChatGPT](https://chatgpt.com) for helping me to add comments in the code for better understanding ☺️
 
